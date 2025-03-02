@@ -1,5 +1,5 @@
 ###  Short Présentation
-### Formation : I am a master student in signal and image processing ("Master 1 TSI (Aix-Marseille University)"). 
+### Formation : I am a master student in signal and image processing  
 
 ##  Contact : Kamal.Achalhi@etu.univ-amu.fr
 <!---
