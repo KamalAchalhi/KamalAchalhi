@@ -1,4 +1,3 @@
-###  Short Présentation
 ### Formation : I am a master student in signal and image processing  
 
 ##  Contact : Kamal.Achalhi@etu.univ-amu.fr
