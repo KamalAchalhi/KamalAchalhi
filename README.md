@@ -1,4 +1,4 @@
-### Formation : I am a Research engeneer at cea neurospin (focus : Machine Learning & Translationnal Psychiatry) 
+### Position : I am a Research engeneer at cea neurospin (focus : Machine Learning & Translationnal Psychiatry) 
 
 ##  Contact : Kamal.Achalhi@cea.fr
 <!---
